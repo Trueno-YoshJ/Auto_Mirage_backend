@@ -10,7 +10,7 @@ import java.util.List;
 @RestController
 @CrossOrigin(origins = {
         "http://localhost:5174",
-        "https://tron-automirage.github.io"
+        "https://tron-yoshj.github.io"
 })
 public class UserController{
 
